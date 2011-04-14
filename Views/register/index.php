@@ -1,0 +1,1 @@
+<?php inc::form('register');?>

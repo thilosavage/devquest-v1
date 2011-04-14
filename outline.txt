@@ -1,0 +1,132 @@
+todo -
+*****- add bonuses to jobs (10)
+     -"work" options/bar - makes money
+	some job solution...
+
+**- stats increase on levelup
+**- stats downcrease on death
+
+- work out revive/sleep system
+	what does sleeping even do?
+	
+
+upgrading software in stores -
+	software can only be upgraded to store level - software level + 1
+
+- gigs
+- mouseover popups for items - always
+- do not enter sign instaed of world Message
+- limit bots to 3
+- you z-index issue
+- close all windows button/ hotkey
+- a few more item types
+- certification items
+- home actions
+- add modem to item
+-university:
+	buy 1 skill point for $20,000
+	
+
+
+
+city > area > zone > loc
+
+3 cities
+9 zones
+15 areas
+104 locs
+
+
+bot_user
+	area_id
+bug
+	area_id
+
+
+generate bots by area_id
+
+1: 1
+2: 3
+3: 5
+4: 8
+5: 11
+6: 14
+7: 18
+8: 21
+9: 25
+10: 30
+11: 35
+12: 40
+13: 47
+14: 52
+15: 60
+
+every zone has a store = 15 stores
+every other area has a job = 8 jobs
+every other area has a gig = 8 gigs
+every zone has 12 items = 180 items.. / 6 = 30 sets ( 3 sets of 10 colors) -
+	set colors = white, yellow, orange, green, blue, red, purple, black, silver, gold
+every zone has 5 bugs = 175 bugs.. / 7 = 25 sets ( 5 sets of 5 magnitude )]
+	Lesser, ___, Advanced, Encrypted
+every zone has 
+	
+	
+	
+i go to a square in bugzone 8.. bug level is 21
+it pulls x number of bugs of level 21.. turns them up/down $level+ceil($level *.10), adjust stats accordingly
+
+
+	
+
+	
+skills:
+	HTML
+	Photoshop
+	CSS
+	Flash
+	JavaScript
+	Linux
+	PHP
+	
+jobs:
+	Sue's Tavern
+	Cyber Shack
+	Higgins Hall
+	Lughart Learning Center
+	Cedar Hill Software
+	MDi Online
+	Zynga
+
+gigs:
+	Blossoms's Bed and Breakfast
+	Bonnie Jane's Beads
+	KB Enterprises
+	MacCalman Gallary
+	Montana Birding Corporation
+	
+	
+	
+	
+
+
+
+
+content
+- build map (3)
+- populate mock world
+- add jobs (4)
+- populate bugs/images (5)
+- populate items/images (4)
+- populate skills/images (4)
+- populate software/images (4)
+
+aesthetic
+- bag layout
+- map colors
+bars for
+ - sleep
+ - work
+ - hp
+ - ram
+	
+
