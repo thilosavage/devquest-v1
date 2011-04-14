@@ -17,6 +17,7 @@ if(site::debug)log::error("The application finished without any errors.");
 site::debug?log::set(mysql_error()):'';
 echo log::write();
 
+
 unset($_SESSION['message']);
 
 // now gtfo
